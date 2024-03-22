@@ -2,6 +2,10 @@
    Next.js - TypeScript Zustand Examples
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/nextjs-typescript-zustand-examples/assets/111967202/6d2257dc-6ed7-4f58-b756-a79a6727cda4" width="700" />
 </p>
